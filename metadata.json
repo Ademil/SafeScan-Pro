@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SafeScan Pro - Verificador de EPI",
+  "description": "Aplicativo de inspeção de segurança industrial que utiliza IA para identificar Equipamentos de Proteção Individual (EPI) e verificar conformidade com as Normas Regulamentadoras (NR).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
